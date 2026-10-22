@@ -54,13 +54,11 @@ personal_finance_system/
 │
 ├── requirements.txt                             # Python dependencies
 ├── .gitignore                                   # Git ignore rules
+├── LICENSE                                      # MIT License
 ├── README.md                                    # Comprehensive project documentation
-├── Personal_Finance_System_Project_Report.docx   # Academic Project Report (14 pages, formatted)
 │
-└── reports_and_docs/                            # Documentation, assets & chart exports
-    ├── finance_dashboard_overview.png           # Exported visual analytics overview
-    ├── transactions_export.csv                  # Demonstration CSV export
-    └── Personal_Finance_System_Project_Report.docx
+└── reports_and_docs/
+    └── Personal_Finance_System_Project_Report.docx   # Academic Project Report (14 pages, formatted)
 ```
 
 ### Modular Codebase Line Count Summary
@@ -124,7 +122,7 @@ python main.py --seed
 ## 📑 Project Report
 
 The complete academic case study report is available in Microsoft Word format:
-- 📄 **[Personal_Finance_System_Project_Report.docx](Personal_Finance_System_Project_Report.docx)** (14 pages)
+- 📄 **[Personal_Finance_System_Project_Report.docx](reports_and_docs/Personal_Finance_System_Project_Report.docx)** (14 pages)
   - Front page main heading: Times New Roman, 20 pt, Bold, Centered
   - Subheadings: Times New Roman, 14 pt, Bold
   - Body text: Times New Roman, 12 pt, 1.15 line spacing
