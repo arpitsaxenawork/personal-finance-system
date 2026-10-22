@@ -1,4 +1,4 @@
-# Personal Finance and Expense Analytics System
+# PERSONAL FINANCE AND EXPENSE ANALYTICS SYSTEM
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Database](https://img.shields.io/badge/SQLite-ACID%20Compliant-orange.svg)](https://www.sqlite.org/)
@@ -8,11 +8,11 @@
 
 An end-to-end, lightweight desktop financial management and data intelligence application engineered in pure Python. The system provides real-time income and expense tracking, category-specific monthly budget caps with automated threshold warnings, NumPy-powered descriptive statistical analysis, and interactive Matplotlib data visualizations embedded into a modern Tkinter desktop GUI.
 
-> **Academic Project:** Master of Computer Applications (MCA) – Data Science  
+> **Project Name:** PERSONAL FINANCE AND EXPENSE ANALYTICS SYSTEM  
+> **Course:** MCA DS  
+> **Subject:** Python Programming  
 > **Institution:** Chandigarh University, Mohali, Punjab  
 > **Academic Session:** 2026–2027  
-> **Course:** Python Programming Lab  
-> **Code Compactness:** Exactly **464 lines of modular Python code** across all files!
 
 ---
 
@@ -133,7 +133,8 @@ The complete academic case study report is available in Microsoft Word format:
 ## 👤 Author & Academic Details
 
 - **Student:** Arpit Saxena
-- **Program:** Master of Computer Applications (MCA) – Data Science
+- **Course:** MCA DS
+- **Subject:** Python Programming
 - **Institution:** Chandigarh University, Mohali, Punjab, India
 - **Academic Session:** 2026–2027
 
