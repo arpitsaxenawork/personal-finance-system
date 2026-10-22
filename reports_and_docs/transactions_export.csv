@@ -1,0 +1,37 @@
+id,date,type,category,amount,description,payment_mode
+1,2026-08-01,Income,Salary,65000.0,Monthly Corporate Salary,Net Banking
+2,2026-08-02,Expense,Bills,18000.0,Apartment Rent & Maintenance,Net Banking
+3,2026-08-03,Expense,Bills,2400.0,Electricity & Water Bill,UPI
+4,2026-08-05,Expense,Food,3200.0,Monthly Supermarket Groceries,Debit Card
+5,2026-08-07,Expense,Travel,1500.0,Metro Smart Card Recharge,UPI
+6,2026-08-10,Expense,Education,2800.0,Data Science Textbooks & Study Materials,UPI
+7,2026-08-12,Income,Freelance,12000.0,Web Scraping & Analytics Project,Net Banking
+8,2026-08-14,Expense,Food,1450.0,Weekend Dinner with College Friends,UPI
+9,2026-08-16,Expense,Shopping,3600.0,Casual Clothing & Sneakers,Credit Card
+10,2026-08-18,Expense,Entertainment,999.0,Annual OTT Streaming Subscription,Credit Card
+11,2026-08-21,Expense,Healthcare,1200.0,Prescription Medicines & Vitamins,Cash
+12,2026-08-25,Expense,Food,2100.0,Weekly Grocery & Dairy,UPI
+13,2026-08-28,Expense,Travel,2200.0,Fuel (Petrol) for Bike,UPI
+14,2026-08-30,Expense,Miscellaneous,850.0,Stationery and Notebooks,Cash
+15,2026-09-01,Income,Salary,65000.0,Monthly Corporate Salary,Net Banking
+16,2026-09-02,Expense,Bills,18000.0,Apartment Rent & Maintenance,Net Banking
+17,2026-09-03,Expense,Bills,2150.0,Electricity Bill,UPI
+18,2026-09-04,Expense,Food,3450.0,Supermarket Groceries & Provisions,Debit Card
+19,2026-09-06,Expense,Travel,1800.0,Cab Rides & Metro,UPI
+20,2026-09-09,Expense,Education,4500.0,Python & Machine Learning Certification,Credit Card
+21,2026-09-12,Income,Freelance,15500.0,Data Visualization Dashboard Consulting,Net Banking
+22,2026-09-15,Income,Investment,2400.0,Mutual Fund Dividend Payout,Net Banking
+23,2026-09-16,Expense,Shopping,4200.0,Wireless Noise-Canceling Earbuds,Credit Card
+24,2026-09-19,Expense,Food,1650.0,Dinner & Coffee Outing,UPI
+25,2026-09-22,Expense,Healthcare,800.0,Dental Checkup,UPI
+26,2026-09-25,Expense,Food,2300.0,Grocery and Fruits,UPI
+27,2026-09-27,Expense,Travel,2400.0,Fuel (Petrol),UPI
+28,2026-09-29,Expense,Entertainment,750.0,Cinema Movie Tickets,UPI
+29,2026-10-01,Income,Salary,68000.0,Monthly Salary (Incremented),Net Banking
+30,2026-10-01,Expense,Bills,18000.0,Apartment Rent & Maintenance,Net Banking
+31,2026-10-02,Expense,Bills,2300.0,Electricity & Wi-Fi Broadband,UPI
+32,2026-10-02,Expense,Food,3600.0,Grocery Store Restocking,Debit Card
+33,2026-10-03,Expense,Travel,1600.0,Metro Card & Auto Fare,UPI
+34,2026-10-03,Expense,Food,920.0,Lunch Cafe with Classmates,UPI
+35,2026-10-04,Expense,Education,1500.0,Lab Material and Printouts,Cash
+36,2026-10-04,Expense,Entertainment,600.0,Weekend Gaming & Bowling,UPI
