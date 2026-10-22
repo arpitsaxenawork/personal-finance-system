@@ -77,7 +77,6 @@ The proposed system is an integrated desktop analytical tool comprising four cor
   - `pandas` (>= 2.0.0): Tabular data analysis and pivot tables.
   - `numpy` (>= 1.24.0): Array manipulation and statistical functions.
   - `matplotlib` (>= 3.7.0): Graphical chart rendering.
-  - `python-docx` (Optional): Automated academic report generator.
   - `streamlit` (Optional): Alternative browser-based interface.
 
 ### 7.2 Hardware Requirements

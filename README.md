@@ -60,7 +60,6 @@ personal_finance_system/
 └── reports_and_docs/                            # Documentation, assets & chart exports
     ├── finance_dashboard_overview.png           # Exported visual analytics overview
     ├── transactions_export.csv                  # Demonstration CSV export
-    ├── build_report_docx.py                     # Report document generator script
     └── Personal_Finance_System_Project_Report.docx
 ```
 
