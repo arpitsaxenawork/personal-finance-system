@@ -9,10 +9,11 @@
 An end-to-end, lightweight desktop financial management and data intelligence application engineered in pure Python. The system provides real-time income and expense tracking, category-specific monthly budget caps with automated threshold warnings, NumPy-powered descriptive statistical analysis, and interactive Matplotlib data visualizations embedded into a modern Tkinter desktop GUI.
 
 > **Project Name:** PERSONAL FINANCE AND EXPENSE ANALYTICS SYSTEM  
-> **Course:** MCA DS  
+> **Course:** Masters in Computer Applications (MCA) – Data Science  
 > **Subject:** Python Programming  
 > **Institution:** Chandigarh University, Mohali, Punjab  
 > **Academic Session:** 2026–2027  
+
 
 ---
 
