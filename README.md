@@ -59,7 +59,8 @@ personal_finance_system/
 ├── README.md                                    # Comprehensive project documentation
 │
 └── reports_and_docs/
-    └── Personal_Finance_System_Project_Report.docx   # Academic Project Report (14 pages, formatted)
+    ├── Python Report Final Draft.docx               # Academic Project Report (Word format)
+    └── Python Report Final Draft.pdf                # Academic Project Report (PDF format)
 ```
 
 ### Modular Codebase Line Count Summary
@@ -122,8 +123,9 @@ python main.py --seed
 
 ## 📑 Project Report
 
-The complete academic case study report is available in Microsoft Word format:
-- 📄 **[Personal_Finance_System_Project_Report.docx](reports_and_docs/Personal_Finance_System_Project_Report.docx)** (14 pages)
+The complete academic case study report is available in both Microsoft Word and PDF formats:
+- 📄 **[Python Report Final Draft.docx](reports_and_docs/Python%20Report%20Final%20Draft.docx)**
+- 📕 **[Python Report Final Draft.pdf](reports_and_docs/Python%20Report%20Final%20Draft.pdf)**
   - Front page main heading: Times New Roman, 20 pt, Bold, Centered
   - Subheadings: Times New Roman, 14 pt, Bold
   - Body text: Times New Roman, 12 pt, 1.15 line spacing
